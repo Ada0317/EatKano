@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# MarriedWithSophie
+# EatKano
 
 _🦌 网页小游戏 🥛_
 
@@ -12,7 +12,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：拯救索菲酱
+小游戏：吃掉小鹿乃
 
 
 线上版本:https://xingye.me/game/eatkano/index.php
