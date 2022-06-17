@@ -12,7 +12,7 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+little game：吃掉小鹿乃
 
 [English](README_EN.md)
 |
